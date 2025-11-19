@@ -39,7 +39,7 @@ Requires:
 
 1. **Clone the Repository**:  
    ```bash  
-   git clone https://github.com/your-repo/plug-it.git  
+   git clone https://github.com/Alvaade/plug-it.git  
    cd plug-it  
    ```  
 
