@@ -20,7 +20,7 @@ Server: https://plugit-backend.onrender.com/
 
 ## Technical Specifications
 
-- **Frontend**: React with Reach Router DOM for navigation
+- **Frontend**: React with Reach Router DOM for navigation, Tailwind CSS for styling
 - **Backend**: Node.js with Express.js for REST API implementation
 - **Database**: MongoDB
 - **Authentication**: JWT, Google OAuth
