@@ -18,11 +18,11 @@ Server: https://plugit-backend.onrender.com/
 - Secure authentication with JWT-based login and signup as well as Google OAuth integration
 - Station reviews and favorite stations
 
-[Landing page](./images/image_2.png)
+![Landing page](./images/image_2.png)
 
-[Map](./images/image_3.png)
+![Map](./images/image_3.png)
 
-[Close up](./images/image_1.png)
+![Close up](./images/image_1.png)
 
 ---
 
