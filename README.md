@@ -17,7 +17,13 @@ Server: https://plugit-backend.onrender.com/
 - Interactive map with Leaflet
 - Secure authentication with JWT-based login and signup as well as Google OAuth integration
 - Station reviews and favorite stations
-  
+
+[Landing page](./image_3.png)
+
+[Map](./image_2.png)
+
+[Close up](./image_1.png)
+
 ---
 
 ## Technical Specifications
